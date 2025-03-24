@@ -1,5 +1,5 @@
 public class Atomizer {
-    public static void main(String[] args) {
-        
+    public void testFunction() {
+        System.out.println("test complete");
     }
 }
