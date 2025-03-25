@@ -1,5 +1,5 @@
 public class Atomizer {
-    public void testFunction() {
-        System.out.println("test complete");
+    public void testFunction(String food) {
+        System.out.println(food + " will now be atomized!");
     }
 }
